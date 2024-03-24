@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "endpoint": "node client/endpoint-test.js",
-    "balance": "node client/balance.js"
+    "balance": "node client/balance.js",
+    "devsol": "node client/devsol-airdrop.js"
   },
   "author": "",
   "license": "ISC",
