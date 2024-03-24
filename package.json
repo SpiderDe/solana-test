@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "endpoint": "node endpoint-test.js",
-    "balance": "node balance.js"
+    "endpoint": "node client/endpoint-test.js",
+    "balance": "node client/balance.js"
   },
   "author": "",
   "license": "ISC",
